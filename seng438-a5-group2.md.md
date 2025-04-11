@@ -16,6 +16,9 @@
 # Assessment Using Reliability Growth Testing 
 
 # Assessment Using Reliability Demonstration Chart 
+![My Image](images/min.png)
+![My Image](images/half.png)
+![My Image](images/double.png)
 
 # 
 
