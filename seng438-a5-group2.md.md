@@ -23,7 +23,8 @@ The above image displays the plot for MTTFhalf. The reliability trend displayed 
 ![My Image](images/double.png)
 The above image displays the plot for MTTFdouble. As plotted, the reliability trend suggests that the trend is acceptable for our FIO as it can be seen clearly that it isnt in the reject range. The calculation for MTTF, in this case, is 32/286,560, which gives an MTTF of 0.0001.
 
-# 
+# Explain your evaluation and justification of how you decide on the MTTFmin
+We calculated our MTTFmin using our sum of time until failiiure divided by each 
 
 # Comparison of Results
 
