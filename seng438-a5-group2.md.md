@@ -2,12 +2,13 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
+| Group \#:     2  |   |
 |-----------------|---|
 | Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+|            Said Rahmani     |   |
+|            Qasim Amar     |   |
+|              Ahmed Abdullah
+Muhammad Bilal   |   |
 
 # Introduction
 
@@ -30,10 +31,15 @@ We calculated our MTTFmin using our sum of time until failiiure divided by each
 
 # Discussion on Similarity and Differences of the Two Techniques
 
-# How the team work/effort was divided and managed
+# Discussion on Similarity and Differences of the Two Techniques
 
-# 
+# How the team work/effort was divided and managed
+We divided the assignment between pairs of two. The first pair was responsible for doing part 1 which was the reliability growth testing and the other pair worked on part 2 which was the reliability demonstration chart. Upon completion we got together and showed our progress and explained what we did so everyone could leave with an understanding for the whole assignment. Lastly, the report was worked on by all team members in order for equal contribution.
 
 # Difficulties encountered, challenges overcome, and lessons learned
+Upon starting the assignment we had to overcome some difficulties as it was pretty confusing to begin with. Just understanding the datasets and how to use the tools took time to understand but with some trial and error we were able to complete the tasks. Since one of the group members had a Mac we made sure to join calls so they could still contribute and learn. 
+
+Overall we were able to learn how to use software tools to read intensity and reliabilty graphs and visualize the reliability of a system.
 
 # Comments/feedback on the lab itself
+The biggest issue we saw with the lab was a lack of intstructions on how to use the tools. A lot of time went into trying to figure out how to use the new tools without much clarity. Having to go back and forth between adjusting the dataset took time. With the use of the tools, multiple sets of graph were generated and having some instructions on how to interpret those graphs would have been helpful.
